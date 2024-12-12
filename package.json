@@ -2,7 +2,7 @@
   "name": "front-reactv2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Lil5166/front-react/",
+  "homepage": "https://lil5166.github.io/front-react/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
