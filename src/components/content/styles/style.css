@@ -1,0 +1,15 @@
+.bg-color-1 {
+    background-color: lightcoral;
+    color: #00008b;
+}
+
+.bg-color-2 {
+    background-color: lightgreen;
+    color: #8b0000;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
