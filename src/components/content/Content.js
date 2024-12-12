@@ -38,7 +38,7 @@ class Content extends Component {
                 const newImage = document.createElement('img');
                 newImage.id = 'image';
                 newImage.src = 'https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRqKETbMVecfJL5CBhS40owt1N8dFZwYCQqSXKi7MdBEF3QJ0dmJ31mJnnxnltrdI1JNHp8O5MzrICZv2sz4zFrr2ugtxICD0DOngNnWA';
-                newImage.alt = 'Відень, Австрія';
+                newImage.alt = 'Львів Україна';
                 newImage.width = 600;
                 imageContainer.appendChild(newImage);
             }
@@ -75,7 +75,7 @@ class Content extends Component {
         return (
             <div>
                 <p>Дата народження: 24 травня 2005 року<br/>Місце народження: Житомир, Україна</p>
-                <p id="item-4">Освіта: Гімназія №267, м.Київ<br/>
+                <p id="item-4">Освіта: <br/>
                     &emsp; &emsp; НТУУ "КПІ ім. Ігоря Сікорсього" ФІОТ, група ІА-23</p>
                 <h3 id="item-5">Мої хобі:</h3>
                 <ul>
