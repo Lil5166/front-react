@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Lil5166/front-react/static/css/main.7fa019d5.css",
-    "main.js": "/Lil5166/front-react/static/js/main.d0bc17ca.js",
-    "index.html": "/Lil5166/front-react/index.html",
-    "main.7fa019d5.css.map": "/Lil5166/front-react/static/css/main.7fa019d5.css.map",
-    "main.d0bc17ca.js.map": "/Lil5166/front-react/static/js/main.d0bc17ca.js.map"
+    "main.css": "/front-react/static/css/main.7fa019d5.css",
+    "main.js": "/front-react/static/js/main.d0bc17ca.js",
+    "index.html": "/front-react/index.html",
+    "main.7fa019d5.css.map": "/front-react/static/css/main.7fa019d5.css.map",
+    "main.d0bc17ca.js.map": "/front-react/static/js/main.d0bc17ca.js.map"
   },
   "entrypoints": [
     "static/css/main.7fa019d5.css",
